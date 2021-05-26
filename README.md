@@ -26,6 +26,7 @@ $ yarn create @vitejs/app
 ```bash
 # with NPM
 $ npm install three
+# with Yarn
 $ yarn add three
 ```
 
@@ -49,6 +50,7 @@ First, run the development server:
 $ npm run dev
 # or
 $ yarn dev
+
 ```
 
 ---
@@ -60,6 +62,8 @@ $ yarn dev
 [Mr. doob](https://threejs.org/)
 
 [Bruno Simon](https://threejs-journey.xyz/)
+
+--
 
 ##### Contributors
 
